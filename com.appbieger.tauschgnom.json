@@ -1,0 +1,13 @@
+{
+	"ver": "1",
+	"url_home": "http://www.tauschgnom.de",
+	"url_search": "http://www.gmx.de",
+	"url_add": "http://www.gmx.de",
+	"url_msg": "http://www.gmx.de",
+	"url_me": "http://www.gmx.de",
+	"js_burger": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");",
+	"js_config": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");",
+	"js_search": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");"
+}
+
+ 
