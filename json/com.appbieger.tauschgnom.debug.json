@@ -8,5 +8,5 @@
     "url_inprint": "http://www.tauschgnom.de/content/impressum/",
     "js_burger": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");",
     "js_config": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");",
-    "js_search": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");"
+    "js_search": "function myFunction() { confirm(\"Press a button!\");"
 }
