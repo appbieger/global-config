@@ -9,5 +9,5 @@
     "js_burger": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");",
     "js_config": "if($(\"html\").hasClass(\"openNav\")) $(\"html\").removeClass(\"openNav\"); else $(\"html\").addClass(\"openNav\");",
     "js_search": "$( \"#back\" ).append( document.createTextNode( \"js_search\" ) );", 
-    "js_barcode_function": "$( \"#back\" ).append( document.createTextNode( %s ) );"
+    "js_barcode": "$( \"#back\" ).append( document.createTextNode( %s ) );"
 }
