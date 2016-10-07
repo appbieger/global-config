@@ -6,7 +6,7 @@
     "url_msg": "http://www.tauschgnom.de/my-inbox",
     "url_me": "http://www.tauschgnom.de/mainprofil",
     "url_inprint": "http://www.tauschgnom.de/content/impressum/",
-    "js_burger": "tg.triggerMenu.search()",
+    "js_burger": "tg.triggerMenu.burger()",
     "js_config": "",
     "js_search": "tg.triggerMenu.search();",
     "js_barcode_var": "var barcode_var = ",

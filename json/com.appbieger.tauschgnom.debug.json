@@ -1,16 +1,15 @@
 {
-    "ver": "1",
-    "url_home": "http://www.tauschgnom.de",
-    "url_search": "http://www.tauschgnom.de/neues-produkt",
-    "url_add": "http://www.tauschgnom.de/neues-produkt",
-    "url_msg": "http://www.tauschgnom.de/my-inbox",
-    "url_me": "http://www.tauschgnom.de/mainprofil",
-    "url_inprint": "http://www.tauschgnom.de/content/impressum/",
-    "js_burger": "tg.triggerMenu.search()",
-    "js_config": "",
-    "js_search": "tg.triggerMenu.search();",
-    "js_barcode_var": "var barcode_var = ",
-    "js_barcode_function": "tg.barcode.scan(barcode_var)"
+  "ver": "1",
+  "url_home": "http://www.tauschgnom.de",
+  "url_search": "http://www.tauschgnom.de/neues-produkt",
+  "url_add": "http://www.tauschgnom.de/neues-produkt",
+  "url_msg": "http://www.tauschgnom.de/my-inbox",
+  "url_me": "http://www.tauschgnom.de/mainprofil",
+  "url_inprint": "http://www.tauschgnom.de/content/impressum/",
+  "js_burger": "tg.triggerMenu.burger()",
+  "js_config": "",
+  "js_search": "tg.triggerMenu.search();",
+  "js_barcode_var": "var barcode_var = ",
+  "js_barcode_function": "tg.barcode.scan(barcode_var)"
 }
-
 
