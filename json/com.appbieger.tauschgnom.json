@@ -10,6 +10,6 @@
     "js_config": "",
     "js_search": "tg.triggerMenu.search();",
     "js_barcode_var": "var barcode_var = ",
-    "js_barcode_function": "tg.barcode.scan(barcode_var)"
+    "js_barcode_function": "tg.barcode.scan(barcode_var)",
+    "js_msgCount": "tg.msgCount()"
 }
-
