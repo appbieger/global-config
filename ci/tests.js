@@ -52,13 +52,6 @@ QUnit.test( "TG tg.msgCount   worked", function( assert ) {
 
 });
 
-test( "TG tg.msgCount   worked", function( assert ) {
-    tg.debugFeedback.clear();
-  assert.ok( tg.debugFeedback.msgCount == false, "Passed!" );
-  tg.msgCount();
-  assert.ok( tg.debugFeedback.msgCount == true, "Passed!" );
-
-});
 
  
  
