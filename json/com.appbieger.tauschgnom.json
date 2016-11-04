@@ -6,6 +6,7 @@
     "url_msg": "http://www.tauschgnom.de/my-inbox",
     "url_me": "http://www.tauschgnom.de/mainprofil",
     "url_inprint": "http://www.tauschgnom.de/content/impressum/",
+    "url_citestObject": "https://raw.githubusercontent.com/appbieger/global-config/master/ci/tg_test.js",
     "js_burger": "tg.triggerMenu.burger()",
     "js_config": "",
     "js_search": "tg.triggerMenu.search();",
