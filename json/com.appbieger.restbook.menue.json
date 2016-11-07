@@ -1,9 +1,8 @@
 {
     "koezstade" : "http://www.koez-stade.de/includes/media/koez_restauant_speisekarte_2015_.pdf", 
     "1461474734075590": "http://www.dionysos-stade.de/files/seiteninhalt/mittagskartefertig22.pdf",
-    "190720927639818": "http://www.amadeus-buxtehude.de/pages/mittagstisch.php",  // Restaurant Amadeus Buxtehude
-    "meatery" : "http://hamburg.meatery.de/fileadmin/img/pdf/hamburg/MEAT-HH_Speisekarte_DE.pdf" // Meatery bar + restaurant Hamburg
-
+    "190720927639818": "http://www.amadeus-buxtehude.de/pages/mittagstisch.php",  
+    "meatery" : "http://hamburg.meatery.de/fileadmin/img/pdf/hamburg/MEAT-HH_Speisekarte_DE.pdf" 
 }
  
 
