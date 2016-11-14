@@ -3,6 +3,32 @@
 [
   
     {
+        "name" : "Meatery bar + restaurant Hamburg" ,
+        "id" : "meatery",
+        "downloads" : [
+            {
+                "name" : "Dinnerkarte",
+                "url" : "http://hamburg.meatery.de/fileadmin/img/pdf/hamburg/MEAT-HH_Speisekarte_DE.pdf",
+                "icon" : "menue_icon"
+            } ,
+            {
+                "name" : "Burgerkarte",
+                "url" : "http://hamburg.meatery.de/fileadmin/img/pdf/hamburg/1606_MEAT_HH_Burgerkarte.pdf",
+                "icon" : "burgerkarte_icon"
+            } ,
+            {
+                "name" : "Weinkarte",
+                "url" : "http://hamburg.meatery.de/fileadmin/img/pdf/meatery-weinkarte.pdf",
+                "icon" : "weinkarte_icon"
+            }  ,
+            {
+                "name" : "Drinkkarte",
+                "url" : "http://hamburg.meatery.de/fileadmin/img/pdf/hamburg/meatery-hamburg-drinkskarte.pdf",
+                "icon" : "drinkkarte_icon"
+            } 
+        ]
+    },  
+    {
         "name" : "Köz Stade" ,
         "id" : "koezstade",
         "downloads" : [
