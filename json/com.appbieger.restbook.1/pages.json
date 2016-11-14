@@ -35,14 +35,8 @@
             {
                 "name" : "Speisekarte",
                 "url" : "http://www.koez-stade.de/includes/media/koez_restauant_speisekarte_2015_.pdf",
-                "icon" : "speisekarte"
-            },
-
-            {
-                "name" : "Weinkarte",
-                "url" : "http://www.gmx.de",
-                "icon" : "speisekarte"
-            }
+                "icon" : "menue_icon"
+            } 
         ]
     },
 
@@ -52,21 +46,26 @@
         "name" : "Amadeus Buxtheude" ,
         "id" : "190720927639818",
         "downloads" : [
+
+            
             {
-                "name" : "Speisekarte",
-                "url" : "http://www.amadeus-buxtehude.de/pages/mittagstisch.php",
-                "icon" : "speisekarte"
+                "name" : "Getränke",
+                "url" : "http://www.amadeus-buxtehude.de/pages/getraenke/alkoholfreies.php",
+                "icon" : "drinkkarte_icon"
             },
 
             {
-                "name" : "Weinkarte",
-                "url" : "http://www.gmx.de",
-                "icon" : "speisekarte"
+                "name" : "Mittagstisch",
+                "url" : "http://www.amadeus-buxtehude.de/pages/mittagstisch.php",
+                "icon" : "menue_icon"
+            },
+
+            {
+                "name" : "Wochenendmenue",
+                "url" : "http://www.amadeus-buxtehude.de/pages/wochenendmenue.php",
+                "icon" : "menue_icon"
             }
         ]
-    }
-            
-]
- 
-
+    }       
+] 
 }
