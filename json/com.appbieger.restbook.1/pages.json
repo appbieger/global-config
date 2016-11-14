@@ -1,7 +1,6 @@
 {
     "pages" :
-[
-  
+[ 
     {
         "name" : "Meatery bar + restaurant Hamburg" ,
         "id" : "meatery",
@@ -26,6 +25,46 @@
                 "url" : "http://hamburg.meatery.de/fileadmin/img/pdf/hamburg/meatery-hamburg-drinkskarte.pdf",
                 "icon" : "drinkkarte_icon"
             } 
+        ]
+    }, 
+    {
+        "name" : "FARDi SYRIAN RESTAURANT" ,
+        "id" : "FARDiSYRIANRESTAURANT",
+        "downloads" : [
+            {
+                "name" : "Speisekarte",
+                "url" : "http://fardi-hamburg.de/images/speisekarte.pdf",
+                "icon" : "menue_icon"
+            }  
+        ]
+    },
+    {
+        "name" : "Coast by east & enoteca - Hamburg" ,
+        "id" : "CoastHamburg",
+        "downloads" : [
+            {
+                "name" : "Speisekarte",
+                "url" : "https://www.coast-hamburg.de/fileadmin/redaktion/3_coastHH/Menue/coast-Hamburg-Speisekarte.pdf",
+                "icon" : "menue_icon"
+            }   ,
+            {
+                "name" : "Getränkekarte",
+                "url" : "https://www.coast-hamburg.de/fileadmin/redaktion/3_coastHH/Menue/coast-Hamburg-Getraenkekarte.pdf",
+                "icon" : "drinkkarte_icon"
+            } 
+
+            
+        ]
+    }, 
+    {
+        "name" : "Restaurant Haerlin" ,
+        "id" : "restauranthaerlin",
+        "downloads" : [
+            {
+                "name" : "Speisekarte",
+                "url" : "http://www.restaurant-haerlin.de/de/speisekarte_pdf.php",
+                "icon" : "menue_icon"
+            }   
         ]
     },  
     {
