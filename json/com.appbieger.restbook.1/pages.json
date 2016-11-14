@@ -1,3 +1,5 @@
+{
+    "pages" :
 [
   
     {
@@ -7,13 +9,13 @@
             {
                 "name" : "Speisekarte",
                 "url" : "http://www.koez-stade.de/includes/media/koez_restauant_speisekarte_2015_.pdf",
-                "Icon" : "speisekarte"
+                "icon" : "speisekarte"
             },
 
             {
                 "name" : "Weinkarte",
                 "url" : "http://www.gmx.de",
-                "Icon" : "speisekarte"
+                "icon" : "speisekarte"
             }
         ]
     },
@@ -27,16 +29,18 @@
             {
                 "name" : "Speisekarte",
                 "url" : "http://www.amadeus-buxtehude.de/pages/mittagstisch.php",
-                "Icon" : "speisekarte"
+                "icon" : "speisekarte"
             },
 
             {
                 "name" : "Weinkarte",
                 "url" : "http://www.gmx.de",
-                "Icon" : "speisekarte"
+                "icon" : "speisekarte"
             }
         ]
     }
             
 ]
  
+
+}
